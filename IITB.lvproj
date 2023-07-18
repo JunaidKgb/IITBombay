@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="21008000">
 	<Property Name="CCSymbols" Type="Str">debug,TRUE;</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -13,7 +13,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="IIT Bombay" Type="Folder" URL="..">
+		<Item Name="IITBombay" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -87,6 +87,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{282B6D88-8481-4B70-B464-98AD778E60F9}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{ECA3A7C8-1064-4F1B-8F6A-FE4EEC9CCCD0}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{43398855-54F7-47F2-B2D4-811AE0C547BB}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">TestBench</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
