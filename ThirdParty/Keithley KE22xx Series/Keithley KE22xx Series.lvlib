@@ -1,11 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="21008000">
+<Library LVVersion="18008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
 	<Property Name="NI.Lib.DefaultMenu" Type="Str">dir.mnu</Property>
 	<Property Name="NI.Lib.Description" Type="Str">LabVIEW Plug and Play instrument driver for
 Keithley KE22xx Series Programmable DC Power Supply.</Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*%!!!*Q(C=\&gt;4.4?N1%)&lt;B,V=MW0J7!+E!;2J!6WEB"&lt;#:"FBES^)A'JA33!EX,5Q,;3(,&lt;-0LYUHYEZ).3#"RH"/=\`Q^0D;77DG8TL1\6&lt;:(3WP@$:`7&gt;6`@N\=?9\!^H,[U(\[W,^06K,@D$[0X*R`7(U`?DD`KV^(SW`\&lt;`L0&lt;4R4[X*XM^-6&amp;GD1J.;F"&gt;;KVK^MF?:)H?:)H?:)(?:!(?:!(?:!\O:-\O:-\O:-&lt;O:%&lt;O:%&lt;O:'XAVTE)B=ZOZ)MHCS54*J-E(3'IO1L]33?R*.Y_+H%EXA34_**0(22YEE]C3@R*"['+@%EHM34?")05T6*NI-=4_*B?A7?Q".Y!E`A95E&amp;HA!1,":-(%Q#1U&amp;D="*Y!E`AY63"*`!%HM!4?'B7Y!E]A3@Q""['N&amp;W*JBE/=DR-)]@D?"S0YX%]4#X(YXA=D_.R0#QHR_.Y()3TI$-Z"$G$H!\/$]@D?0ADR_.Y()`D=4QUN4PE&lt;7='T8#1YT%]BM@Q'"\$QR1S0)&lt;(]"A?Q]/U-DS'R`!9(M0$5D)]BM@Q'""D5:;8-:ERU/BE");(4XN;L.WF;"*L2`VLDA_K[A&amp;506CK"U&lt;V)+BOM/L'K7[);K.6'[D;'.5&amp;KSZ%"61NL*J1V6%&lt;PN@5&amp;86*\;E,[JQ[IU[JX4$UETNO.BONVWON6CMNFUPV@;`&amp;9K(Z@+\:&lt;+&lt;J&gt;+KO[QZPKQO/M5TW\[5\TO^PLS90V`XE]?&lt;PU]/`S_\_^P`4E(^F(&gt;^,X_(&gt;K$`;P8L.MU@0D:8(X1!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*%!!!*Q(C=\&gt;4.4?N1%)&lt;B,V=MW0J7!+E!;2J!6WEB"&lt;#:"FBES^)A'JA33!EX,5Q,;3(,&lt;-0LYUHYEZ).3#"RH"/=\`Q^0D;77DG8TL1\6&lt;:(3WP@$:`7&gt;6`@N\=?9\!^H,[U(\[W,^06K,@D$[0X*R`7(U`?DD`KV^(SW`\&lt;`L0&lt;4R4[X*XM^-6&amp;GD1J.;F"&gt;;KVK^MF?:)H?:)H?:)(?:!(?:!(?:!\O:-\O:-\O:-&lt;O:%&lt;O:%&lt;O:'XAVTE)B=ZOZ)MHCS54*J-E(3'IO1L]33?R*.Y_+H%EXA34_**0(22YEE]C3@R*"['+@%EHM34?")05T6*NI-=4_*B?A7?Q".Y!E`A95E&amp;HA!1,":-(%Q#1U&amp;D="*Y!E`AY63"*`!%HM!4?'B7Y!E]A3@Q""['N&amp;W*JBE/=DR-)]@D?"S0YX%]4#X(YXA=D_.R0#QHR_.Y()3TI$-Z"$G$H!\/$]@D?0ADR_.Y()`D=4QUN4PE&lt;7='T8#1YT%]BM@Q'"\$QR1S0)&lt;(]"A?Q]/U-DS'R`!9(M0$5D)]BM@Q'""D5:;8-:ERU/BE");(4XN;L.WF;"*L2`VLDA_K[A&amp;506CK"U&lt;V)+BOM/L'K7[);K.6'[D;'.5&amp;KSZ%"61NL*J1V6%&lt;PN@5&amp;86*\;E,[JQ[IU[JX4$UETNO.BONVWON6CMNFUPV@;`&amp;9K(Z@+\:&lt;+&lt;J&gt;+KO[QZPKQO/M5TW\[5\TO^PLS90V`XE]?&lt;PU]/`S_\_^P`4E(^F(&gt;^,X_(&gt;K$`;P8L.MU@0D:8(X1!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Public" Type="Folder">
